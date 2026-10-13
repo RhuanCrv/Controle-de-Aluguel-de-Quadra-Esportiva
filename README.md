@@ -18,6 +18,7 @@ Eu usei o padrão MVC para deixar as pastas separadas:
 Model: Onde ficam as informações dos produtos, livros e clientes.
 Controller: Onde fica a "mágica" de fazer as contas e procurar os itens nas listas.
 View: Onde eu usei o Scanner para conversar com quem está usando o programa.
+
 Autor
 Rhuan de Carvalho - Desenvolvedor do Projeto
 Disciplina: Estrutura de Sistemas e Aplicações
